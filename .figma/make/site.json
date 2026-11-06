@@ -1,0 +1,10 @@
+{
+  "description": "Shop premium sneakers for running, lifestyle, basketball, and training, with curated new arrivals, best sellers, customer reviews, and easy online shopping.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
